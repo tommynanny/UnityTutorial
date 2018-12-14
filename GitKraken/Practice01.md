@@ -1,4 +1,12 @@
 Practice 01:
+
+---
+* Learn GitKaren Basics
+* Learn MarkDown:
+1. useful grammar
+2. Add Link
+3. Add image (local, online)
+
 ---
 1. Create a new folder under the repository named 
 "<span style="color:yellow">*GitPractice*</span>"
