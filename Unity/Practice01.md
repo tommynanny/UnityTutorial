@@ -1,0 +1,1 @@
+1. Notice that the ground has a different color
